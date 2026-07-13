@@ -55,12 +55,6 @@ In academia, I contribute as **Project Manager at Harbour.Space Institute of Tec
       <p><strong>CEO & Co-Founder ✨</strong></p>
       <p>Leading a cross-disciplinary innovation hub focused on ArtScience, Academy, AI, creative technology, and human-centered innovation.</p>
     </td>
-    <td width="50%">
-      <h3>🛠️ CreativeDev.Lab @ HSUTCC</h3>
-      <p><strong>Project Manager 🚀</strong></p>
-      <p>Building a collaborative space between students, researchers, industry, and creative technologists.</p>
-    </td>
-  </tr>
   <tr>
     <td width="50%">
       <h3>🏛️ Korat City Government</h3>
@@ -185,7 +179,7 @@ In academia, I contribute as **Project Manager at Harbour.Space Institute of Tec
       <a href="https://creativelabth.com/talk-seminar">Explore Talks & Seminars</a>
     </td>
     <td width="50%">
-      <h3>🧪 CreativeDev.Lab</h3>
+      <h3>🧪 ...</h3>
       <p>A collaborative lab connecting students, researchers, designers, and builders through creative technology projects.</p>
       <a href="https://creativelabth.com">Visit CreativeLabTH</a>
     </td>
