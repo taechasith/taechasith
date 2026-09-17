@@ -157,37 +157,6 @@ In academia, I contribute as **Project Manager at Harbour.Space Institute of Tec
 
 ---
 
-## 🚀 Featured Areas
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🎭 Art–Science Exhibitions</h3>
-      <p>Public-facing exhibitions that translate scientific ideas into creative, accessible, and interactive experiences.</p>
-      <a href="https://creativelabth.com/art-science-exhibition">Explore Art–Science Projects</a>
-    </td>
-    <td width="50%">
-      <h3>🌱 CIA CreativeLab</h3>
-      <p>Alternative education and future-skills initiative focused on creativity, interdisciplinary learning, and youth innovation.</p>
-      <a href="https://creativelabth.com/cia-creativelab">Explore CIA CreativeLab</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🎤 Talks & Seminars</h3>
-      <p>Lectures, workshops, and public programs making complex topics in AI, creativity, and science more accessible.</p>
-      <a href="https://creativelabth.com/talk-seminar">Explore Talks & Seminars</a>
-    </td>
-    <td width="50%">
-      <h3>🧪 ...</h3>
-      <p>A collaborative lab connecting students, researchers, designers, and builders through creative technology projects.</p>
-      <a href="https://creativelabth.com">Visit CreativeLabTH</a>
-    </td>
-  </tr>
-</table>
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
