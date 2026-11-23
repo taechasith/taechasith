@@ -38,11 +38,9 @@
 
 I am a 19-year-old interdisciplinary HCI artist and researcher working at the intersection of **education, art–science, and human–AI interaction**. 🧬🎭
 
-I am the **CEO and Co-Founder of CreativeLabTH Group**, a Thailand-based cross-disciplinary innovation hub exploring decentralized AI to bridge art and science for real-world applications through the **A³ Mission: ArtScience, Academy, and AI**. 🧪💡
+I am the **CEO and Co-Founder of CreativeLabTH Group Co., Ltd.**, a Thailand-based cross-disciplinary venture eco-system company that exploring **A³ Mission: ArtScience, Academy, and AI**. 🧪💡
 
-Beyond CreativeLabTH, I serve as a **Human–AI Interaction Advisor** for the Thailand Soft Power Development Project under the **Nakhon Ratchasima Provincial Administrative Organization**, and as a **Sub-Committee Member** of the **Nakhon Ratchasima Chamber of Commerce**. 🏛️🌏
-
-In academia, I contribute as **Project Manager at Harbour.Space Institute of Technology @ UTCC**, working across research, innovation, education, and cross-disciplinary collaboration. 📚🔬
+In academia, I contribute as **Project Managing Officer at AGENTHROPOLOGY Initiative by School of Engineering @UTCC** (Personally Sponsored by TropicalTech Co., Ltd.), working across research, innovation, and cross-disciplinary collaboration. 📚🔬
 
 ---
 
