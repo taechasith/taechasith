@@ -44,32 +44,7 @@ In academia, I contribute as **Project Managing Officer at AGENTHROPOLOGY Initia
 
 ---
 
-## 💼 Current Roles
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🎨 CreativeLabTH Group</h3>
-      <p><strong>CEO & Co-Founder ✨</strong></p>
-      <p>Leading a cross-disciplinary innovation hub focused on ArtScience, Academy, AI, creative technology, and human-centered innovation.</p>
-    </td>
-  <tr>
-    <td width="50%">
-      <h3>🏛️ Korat City Government</h3>
-      <p><strong>Human–AI Interaction Advisor 🤖</strong></p>
-      <p>Advising on AI-driven initiatives for regional development and Thailand’s soft power ecosystem.</p>
-    </td>
-    <td width="50%">
-      <h3>🌏 Nakhon Ratchasima Chamber of Commerce</h3>
-      <p><strong>Sub-Committee Member 💡</strong></p>
-      <p>Supporting creative and innovation initiatives for regional and international positioning.</p>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🏆 World-Class Highlights
+## 🏆 Public Highlights
 
 * 🌟 Selected as the **one and only startup founder from Thailand** among 30 selected organizations worldwide for the **MIT Startup Showcase**
 * 🧠 Presented at **MIT Media Lab, MIT Decentralized AI Summit 2025 — Block B Startup Showcase**
